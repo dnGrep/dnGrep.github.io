@@ -9,7 +9,7 @@ name: dnGrep
 description: Powerful search for Windows
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/Logo.png
+avatar: http://dngrep.github.io/images/Logo.png
 
 # Link to downloads page
 downloads: https://code.google.com/p/dngrep/downloads
