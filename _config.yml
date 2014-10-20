@@ -79,3 +79,4 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+    - runJekyll.bat
