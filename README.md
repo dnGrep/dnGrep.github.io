@@ -1,3 +1,3 @@
-The web site for dnGrep.
-Theme based on [Jekyll Now](https://github.com/jekyll/jekyll).
-Favicons generated using [realfavicongenerator.net](http://realfavicongenerator.net/), although I only used favicon.ico, not the others or the header information or .xml file it generated. Should cover most cases.
+- The web site for dnGrep.
+- Theme based on [Jekyll Now](https://github.com/jekyll/jekyll).
+- Favicons generated using [realfavicongenerator.net](http://realfavicongenerator.net/), although I only used favicon.ico, not the others or the header information or .xml file it generated. Should cover most cases.
