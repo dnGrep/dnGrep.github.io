@@ -17,7 +17,7 @@ Features:
 - Run from USB drive using the stand-alone distribution
 - Much more!
 
-Requires .NET 4.0 (included with Windows 8 and beyond). Get it [here](http://go.microsoft.com/?linkid=9831986).
+Requires .NET 4.0 (included with Windows 8 and beyond, get it for earlier versions [here](http://go.microsoft.com/?linkid=9831986)).
 
 _Main Screen:_
 
