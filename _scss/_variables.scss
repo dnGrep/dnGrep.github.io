@@ -15,13 +15,17 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$bodyFont: Arial, sans-serif;
+$headerFont: 'Quicksand', sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
   @media screen and (max-width: 640px) {
+    @content;
+  }
+}
+@mixin not-mobile {
+  @media screen and (min-width: 640px) {
     @content;
   }
 }

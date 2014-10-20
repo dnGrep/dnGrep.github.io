@@ -14,6 +14,9 @@ avatar: http://dngrep.github.io/images/Logo.png
 # Link to downloads page
 downloads: https://code.google.com/p/dngrep/downloads
 
+# Link to help page
+help: https://github.com/dnGrep/dnGrep/wiki
+
 #
 # Flags below are optional
 #

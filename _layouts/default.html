@@ -18,6 +18,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+	<link href='http://fonts.googleapis.com/css?family=Quicksand:400' rel='stylesheet' type='text/css'>
   </head>
 
   <body>
@@ -32,8 +33,9 @@
           </div>
           
           <nav>
+            <a href="{{ site.downloads }}" class="download">Download</a>
+            <a href="{{ site.help }}">Help</a>
             <a href="{% post_url 2014-10-17-Release-History %}">Release History</a>
-            <a href="{{ site.downloads }}">Download</a>
 			<a href="https://github.com/{{ site.footer-links.github }}">GitHub</a>
           </nav>
         </header>
