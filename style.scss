@@ -221,7 +221,7 @@ nav {
   }
 
   a {
-    margin: 10px;
+    margin: 0 50px 0 0;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
@@ -239,18 +239,19 @@ nav {
 }
 
 .download {
-  @include mobile {
-    margin: 10px;
-    color: $blue;
-    clear: both;
-    display: block;
-  }
   
   @include not-mobile {
     color: $white;
     padding: 0 20px;
     border-radius: 20px;
     background-color: $gray;
+  }
+  
+  @include mobile {
+    margin: 10px;
+    color: $blue;
+    clear: both;
+    display: block;
   }
 }
 
