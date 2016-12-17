@@ -14,7 +14,6 @@ Features:
 - Open line results in a custom editor, like Notepad++
 - [Bookmark](https://github.com/dnGrep/dnGrep/wiki/Bookmarks) search patterns for later use
 - Try out complex searches in the Test window
-- Run from USB drive using the stand-alone distribution
 - Much more!
 
 Requires .NET 4.0 (included with Windows 8 and beyond, get it for earlier versions [here](http://go.microsoft.com/?linkid=9831986)).
