@@ -1,12 +1,14 @@
 ---
 layout: default
 ---
-**dnGrep** allows you to search across files with easy-to-read results. Search through text files, Word documents, PDFs, and archives using text, [regular expression](https://github.com/dnGrep/dnGrep/wiki/Regular-Expressions), [XPath](https://github.com/dnGrep/dnGrep/wiki/XPath), and [phonetic](https://github.com/dnGrep/dnGrep/wiki/Phonetic) queries. dnGrep includes search-and-replace, whole-file preview, right-click search in File Explorer, and much more. 
+**dnGrep** allows you to search across files with easy-to-read results. Search through text files, Word and Excel documents, PDFs, and archives using text, [regular expression](https://github.com/dnGrep/dnGrep/wiki/Regular-Expressions), [XPath](https://github.com/dnGrep/dnGrep/wiki/XPath), and [phonetic](https://github.com/dnGrep/dnGrep/wiki/Phonetic) queries. dnGrep includes search-and-replace, whole-file preview, right-click search in File Explorer, and much more. 
 
 Features:
 
-- Search across text files, Word documents, PDFs, and archives
-- Search using text, [regular expressions](https://github.com/dnGrep/dnGrep/wiki/Regular-Expressions) (regex), [XPath](https:// github.com/dnGrep/dnGrep/wiki/XPath), and [phonetics](https://github.com/dnGrep/dnGrep/wiki/Phonetic) 
+- Search across text files, Word and Excel documents, and PDFs
+- Search for files in archives - zip, 7z, rar, jar, and many more
+- Search using text, [regular expressions](https://github.com/dnGrep/dnGrep/wiki/Regular-Expressions) (regex), [XPath](https://github.com/dnGrep/dnGrep/wiki/XPath), and [phonetics](https://github.com/dnGrep/dnGrep/wiki/Phonetic) 
+- Many search filter options  
 - Search-and-replace, including [undo](https://github.com/dnGrep/dnGrep/wiki/Undo)
 - Whole-file preview
 - [Right-click to search](https://github.com/dnGrep/dnGrep/wiki/Shell-Integration) in File Explorer
@@ -14,9 +16,13 @@ Features:
 - Open line results in a custom editor, like Notepad++
 - [Bookmark](https://github.com/dnGrep/dnGrep/wiki/Bookmarks) search patterns for later use
 - Try out complex searches in the Test window
+- Save search results
+- Light and Dark themes
 - Much more!
 
-Requires .NET 4.0 (included with Windows 8 and beyond, get it for earlier versions [here](http://go.microsoft.com/?linkid=9831986)).
+Runs on Windows 7, 8, 10 or Windows Server
+
+Requires .NET 4.6.2 or higher.
 
 _Main Screen:_
 
