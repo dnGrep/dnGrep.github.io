@@ -24,6 +24,11 @@ Runs on Windows 7, 8, 10 or Windows Server
 
 Requires .NET 4.6.2 or higher.
 
+Install from 
+ - [GitHub](https://github.com/dnGrep/dnGrep/releases/latest)
+ - [Chocolatey](https://chocolatey.org/packages/dngrep)
+ - [WinGet](https://winget.run/pkg/dnGrep/dnGrep)
+
 _Main Screen:_
 
 ![](https://github.com/dnGrep/dnGrep/wiki/Images/grep-main.jpg)
