@@ -37,10 +37,10 @@ _Main Screen:_
 
 _Options:_
 
-![](https://github.com/dnGrep/dnGrep/wiki/Images/options-window.png)
+<img src="https://github.com/dnGrep/dnGrep/wiki/Images/options-window.png" height="60%" width="60%"/>
 
 
-_Shell Integration:_
+_Start from Windows File Explorer:_
 
-![](https://github.com/dnGrep/dnGrep/wiki/Images/shell-integration.png)
+<img src="https://github.com/dnGrep/dnGrep/wiki/Images/shell-integration.png" height="60%" width="60%"/>
 
