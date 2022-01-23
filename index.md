@@ -5,7 +5,7 @@ layout: default
 
 Features:
 
-- Search across text files, Word and Excel documents, and PDFs
+- Search across text files, Word, Excel and PowerPoint documents, and PDFs
 - Search for files in archives - zip, 7z, rar, jar, and many more
 - Search using text, [regular expressions](https://github.com/dnGrep/dnGrep/wiki/Regular-Expressions) (regex), [XPath](https://github.com/dnGrep/dnGrep/wiki/XPath), and [phonetics](https://github.com/dnGrep/dnGrep/wiki/Phonetic) 
 - Many search filter options  
@@ -18,9 +18,10 @@ Features:
 - Try out complex searches in the Test window
 - Save search results
 - Light and Dark themes
+- Translations in several languages
 - Much more!
 
-Runs on Windows 7, 8, 10 or Windows Server
+Runs on Windows 7, 8, 10, 11 or Windows Server
 
 Requires .NET 4.6.2 or higher.
 
@@ -31,27 +32,15 @@ Install from
 
 _Main Screen:_
 
-![](https://github.com/dnGrep/dnGrep/wiki/Images/grep-main.jpg)
+![](https://github.com/dnGrep/dnGrep/wiki/Images/grep-main.png)
 
 
 _Options:_
 
-![](https://github.com/dnGrep/dnGrep/wiki/Images/options-window.jpg)
+![](https://github.com/dnGrep/dnGrep/wiki/Images/options-window.png)
 
 
 _Shell Integration:_
 
-![](https://github.com/dnGrep/dnGrep/wiki/Images/shell-integration.jpg)
+![](https://github.com/dnGrep/dnGrep/wiki/Images/shell-integration.png)
 
-<!-- Show snippets of posts -->
-<!-- <div class="posts">
-{% for post in site.posts %}
-<article class="post">    
-<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-<div class="entry">
-{{ post.content | truncatewords:40}}
-</div>
-</article>
-<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-{% endfor %}
-</div> -->
