@@ -10,6 +10,7 @@ Features:
 - Search using text, [regular expressions](https://github.com/dnGrep/dnGrep/wiki/Regular-Expressions) (regex), [XPath](https://github.com/dnGrep/dnGrep/wiki/XPath), and [phonetics](https://github.com/dnGrep/dnGrep/wiki/Phonetic) 
 - Many search filter options  
 - Search-and-replace, including [undo](https://github.com/dnGrep/dnGrep/wiki/Undo)
+- Replace in text files - does not replace in binary file formats such as Word, Excel, or PDF.
 - Whole-file preview
 - [Right-click to search](https://github.com/dnGrep/dnGrep/wiki/Shell-Integration) in File Explorer
 - Move/copy/delete result files
