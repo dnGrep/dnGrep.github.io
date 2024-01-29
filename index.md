@@ -7,7 +7,7 @@ Features:
 
 - Search across text files, Word, Excel and PowerPoint documents, and PDFs
 - Search for files in archives - zip, 7z, rar, jar, and many more
-- Search using text, [regular expressions](https://github.com/dnGrep/dnGrep/wiki/Regular-Expressions) (regex), [XPath](https://github.com/dnGrep/dnGrep/wiki/XPath), and [phonetics](https://github.com/dnGrep/dnGrep/wiki/Phonetic) 
+- Search using text, [regular expressions](https://github.com/dnGrep/dnGrep/wiki/Regular-Expressions) (regex), [XPath](https://github.com/dnGrep/dnGrep/wiki/XPath), or [byte sequence](https://github.com/dnGrep/dnGrep/wiki/Byte-Search-and-Binary-Files) 
 - Many search filter options  
 - Search-and-replace, including [undo](https://github.com/dnGrep/dnGrep/wiki/Undo)
 - Replace in text files - does not replace in binary file formats such as Word, Excel, or PDF.
@@ -22,9 +22,9 @@ Features:
 - Translations in several languages
 - Much more!
 
-Runs on Windows 7, 8, 10, 11 or Windows Server
+Runs on Windows 10, 11, or Windows Server
 
-Requires .NET 4.6.2 or higher.
+Releases are packaged with .NET 8 included.
 
 Install from 
  - [GitHub](https://github.com/dnGrep/dnGrep/releases/latest)
