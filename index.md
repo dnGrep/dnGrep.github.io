@@ -29,7 +29,6 @@ Releases are packaged with .NET 8 included.
 Install from 
  - [GitHub](https://github.com/dnGrep/dnGrep/releases/latest)
  - [Chocolatey](https://chocolatey.org/packages/dngrep)
- - [WinGet](https://winget.run/pkg/dnGrep/dnGrep)
 
 _Main Screen:_
 
