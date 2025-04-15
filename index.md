@@ -5,7 +5,7 @@ layout: default
 
 Features:
 
-- Search across text files, Word, Excel and PowerPoint documents, and PDFs
+- Search across text files, PDFs, Word, Excel, PowerPoint, and Open Office documents
 - Search for files in archives - zip, 7z, rar, jar, and many more
 - Search using text, [regular expressions](https://github.com/dnGrep/dnGrep/wiki/Regular-Expressions) (regex), [XPath](https://github.com/dnGrep/dnGrep/wiki/XPath), or [byte sequence](https://github.com/dnGrep/dnGrep/wiki/Byte-Search-and-Binary-Files) 
 - Many search filter options  
@@ -24,11 +24,14 @@ Features:
 
 Runs on Windows 10, 11, or Windows Server
 
-Releases are packaged with .NET 8 included.
+Releases are packaged with .NET 9 included.
 
 Install from 
  - [GitHub](https://github.com/dnGrep/dnGrep/releases/latest)
  - [Chocolatey](https://chocolatey.org/packages/dngrep)
+ - [WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget/): winget install -e --id dnGrep.dnGrep
+
+ Windows 7 User? There are no more updates for Windows 7, but you can still run [v3.2.330](https://github.com/dnGrep/dnGrep/releases/tag/v3.2.330.0) and run on .net Framework 4.8
 
 _Main Screen:_
 
