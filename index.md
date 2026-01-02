@@ -29,7 +29,7 @@ Releases are packaged with .NET 9 included.
 Install from 
  - [GitHub](https://github.com/dnGrep/dnGrep/releases/latest)
  - [Chocolatey](https://chocolatey.org/packages/dngrep)
- - [WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget/): `winget install -e --id dnGrep.dnGrep`
+ - [WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget/): winget install -e \--id dnGrep.dnGrep
 
  Windows 7 User? There are no more updates for Windows 7, but you can still run [v3.2.330](https://github.com/dnGrep/dnGrep/releases/tag/v3.2.330.0) and run on .net Framework 4.8
 
