@@ -24,6 +24,8 @@ Features:
 
 Runs on Windows 10, 11, or Windows Server
 
+dnGrep may be incompatible with Windows Smart App Control (SAC) on Windows 11. For more information see the [Compatibility Notice](https://github.com/dnGrep/dnGrep/wiki/Windows-SAC)
+
 Releases are packaged with .NET 9 included.
 
 Install from 
